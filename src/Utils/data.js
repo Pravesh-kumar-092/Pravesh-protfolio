@@ -235,7 +235,7 @@ export const ABOUT_ME = {
     ],
     email: "praveshkumar09263@gmail.com",
     phone: "+91-9720538057",
-    website: "https://saurabh-portfolio-ljxd.vercel.app/"
+    website: "https://pravesh-protfolio.vercel.app/"
 };
 
 export const PROJECTS = [
