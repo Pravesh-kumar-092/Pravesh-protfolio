@@ -7,9 +7,9 @@ import LogoP from "../assets/LogoP.png";
 import LogoA from "../assets/LogoA.png";
 import { STATS } from "../Utils/data";
 import StartInfoCard from "../Components/StartInfoCard";
-import Resume from "../assets/Saurabh_Verma_resume_web_Developer.pdf";
+import Resume from "../assets/Pravesh_kumar_resume_web_Developer.pdf";
 import { TypeAnimation } from "react-type-animation";
-
+ 
 const Hero = () => {
   return (
     <section id="hero" className="container mx-auto px-8">
