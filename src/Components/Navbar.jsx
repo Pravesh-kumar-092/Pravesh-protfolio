@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { MENU_LINKS } from '../Utils/data';
 import {Button, Link} from 'react-scroll';
-import Profile from '../assets/king2.png'
+import Profile from '../assets/logo.png'
 
 const Navbar = () => {
    const [isOpen,setIsOpen] = useState(false);

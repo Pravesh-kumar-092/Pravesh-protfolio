@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Image from "../assets/king3.png";
+import Image from "../assets/king5.png";
 import LogoR from "../assets/LogoR.png";
 import LogoF from "../assets/LogoF.png";
 import LogoP from "../assets/LogoP.png";
